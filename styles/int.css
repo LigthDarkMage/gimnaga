@@ -21,11 +21,6 @@ body {
     color: #2B55DB;
 }
 
-.main-menu {
-    bottom: 0;
-    right: 8px;
-}
-
 .main-menu li {
     display: inline-block;
     margin-right: 10px;
@@ -133,7 +128,7 @@ main {
 
 footer {
     color: white;
-    padding: 0 20% 0 20%;
+    padding: 0 10% 0 10%;
     margin: 0 -8px -12px -8px;
 }
 
