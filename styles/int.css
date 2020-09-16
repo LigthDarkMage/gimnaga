@@ -24,6 +24,7 @@ body {
 .main-menu li {
     display: inline-block;
     margin-right: 10px;
+    font-size: 14px;
 }
 
 .li {
